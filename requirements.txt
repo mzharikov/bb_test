@@ -1,0 +1,9 @@
+pika
+motor
+asyncio
+aiofiles
+pydantic
+pydantic[dotenv]
+pytest
+pytest-mock
+pytest-asyncio

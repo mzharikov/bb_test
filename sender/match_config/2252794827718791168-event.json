@@ -1,0 +1,16 @@
+{
+  "id": 2252794827718791168,
+  "sport_id": 300,
+  "home_team_id": 1354,
+  "home_team_name": "Portugal",
+  "away_team_id": 1335,
+  "away_team_name": "France",
+  "league_id": 78,
+  "league_name": "EURO",
+  "country": "International",
+  "scheduled_time": 1680085428,
+  "start_time": 1680085375,
+  "end_time": 1680086407,
+  "home_score": 1,
+  "away_score": 2
+}
